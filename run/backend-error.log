@@ -1,0 +1,14 @@
+[09/Oct/2026 02:26:58] "GET /api/health/ HTTP/1.1" 200 41
+[09/Oct/2026 02:26:58,993] - Broken pipe from ('127.0.0.1', 53678)
+[09/Oct/2026 02:28:30] "POST /api/demo/start/ HTTP/1.1" 200 112
+[09/Oct/2026 02:28:31] "GET /api/access/status/ HTTP/1.1" 200 112
+[09/Oct/2026 02:29:31] "POST /api/orchestrate/ HTTP/1.1" 200 61383
+[09/Oct/2026 02:30:21] "POST /api/graph-agent/ HTTP/1.1" 200 2433
+[09/Oct/2026 02:34:07] "GET /api/auth/config/ HTTP/1.1" 200 24
+[09/Oct/2026 02:34:12] "POST /api/demo/start/ HTTP/1.1" 200 112
+[09/Oct/2026 02:34:13] "GET /api/access/status/ HTTP/1.1" 200 112
+[09/Oct/2026 02:34:37] "GET /api/auth/config/ HTTP/1.1" 200 24
+[09/Oct/2026 03:10:37] "POST /api/demo/start/ HTTP/1.1" 200 112
+[09/Oct/2026 03:10:38] "GET /api/access/status/ HTTP/1.1" 200 112
+Not Found: /api/query-analyst/
+[09/Oct/2026 03:11:09] "POST /api/query-analyst/ HTTP/1.1" 404 5452
